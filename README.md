@@ -9,4 +9,4 @@ For complete details on the scientific rationale behind this method, please refe
 #### R workspace files 
 `clean_nodatasets_060720.RData` and `clean_060720.RData` are available on [Synapse](https://www.synapse.org/#!Synapse:syn21788425/files/)
 #### R funtions
-`entropy_functions.R` is available at [cm-entropy-score](https://github.com/skannan4/cm-entropy-score)
+`entropy_functions.R` is available at [skannan4/cm-entropy-score](https://github.com/skannan4/cm-entropy-score)
